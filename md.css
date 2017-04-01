@@ -95,7 +95,7 @@ h1 {
 }
 h2 {
 /*     font-size: 1.6em; */
-    font-size: 1.3em;
+    font-size: 1.4em;
     margin-bottom: .875em;
     margin-top: 1.75em;
     line-height: 1.1
@@ -181,7 +181,8 @@ pre {
     -webkit-font-smoothing: auto;
     background-color: #f2f2f2;
     color: #333;
-    font-size: 0.9em
+/*     font-size: 0.9em; */
+    font-size: 1em;
 }
 code,
 kbd,
