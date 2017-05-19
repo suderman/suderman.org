@@ -2,7 +2,7 @@
 
 This is the personal website for Jonathan Suderman.
 
-More to come when I have time. 
+More to come when I have time... 
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
